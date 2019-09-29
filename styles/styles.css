@@ -1,0 +1,71 @@
+/* Styles */
+
+body {
+	background-color: white;
+	color: black;
+	font-family: serif;
+	
+
+
+	
+
+}
+
+article {
+	max-width: 50em;
+	margin-left: 2em;
+	margin-right: 2em;
+	padding-top: 2em;
+	padding-bottom: 4em;
+	border: 1px dotted black;
+    padding: 25px;
+    background: #9e9e9e12;
+    background-repeat: no-repeat;
+    background-size: auto;
+    box-shadow: 5px 10px lightblue;
+
+
+
+}
+
+h1 {
+	font-size: 3em;
+	line-height: 1;
+	font-weight: 50em;
+	text-shadow: .2em .2em lightblue;
+
+
+}
+
+h2 {
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: -0.025em;
+	border: 2px solid grey;
+	border-top: .5em solid grey;
+	padding: .25em;
+	border-top-style: groove;
+	border-bottom-style: dashed;
+
+
+}
+
+p {
+	margin: 0 0 1em 0;
+	font-family: serif;
+	text-indent: 1.7em;
+	
+			height: 20px;
+			overflow: hidden;
+	
+
+}
+
+
+
+div.a {
+  white-space: nowrap; 
+  width: 50em; 
+  overflow: scroll;
+  text-overflow: clip; 
+  border: 1px solid #000000;
